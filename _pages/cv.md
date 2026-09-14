@@ -34,12 +34,13 @@ _Scientist, STEM Equity and Education_
 **Freelance consulting** (2023-present)   
 _Computational biology & data science consultant, technical advisor_
 
-- Ingest and process public data (Census, CDC WONDER, FBI Crime Explorer, etc.) to power impact-tracking and portfolio-monitoring dashboards for a large foundation. Lead a two-person team auditing third-party credit bureau data supporting a veteran-focused financial health product. Advise on data science strategy and platform development, serving as liaison between engineering, product, and policy teams. _Equity Quotient_
-- Architect and implement an event-driven observability system for a metagenomic biosurveillance pipeline, tracking job statuses across processing steps and sending results to a queryable PostgreSQL database. (Python, Terraform, AWS RDS, Lambda, Batch, EventBridge). _SecureBio_   
+- Scope public data (Census, CDC WONDER, BLS, etc.) to power portfolio-monitoring dashboards for foundations and healthcare systems. Lead a two-person team auditing third-party consumer data supporting a veteran-focused financial health product. Advise on data science strategy and data modeling, serving as liaison between engineering, product, and epidemiology/policy teams. Advise data science team on computational best practices and encourage adoption of frontier LLM capabilities to increase team efficiency. (Python, SQL, Snowflake, Notion). _Equity Quotient_
+- Contribute to AI benchmark for pathogen genomic surveillance. Brainstorm tasks and build three wild-type vs. vaccine-derived sequence detection tasks, sourcing sequence data, reproducing expected analyses, and reviewing agent trajectories. Leverage multiple LLMs for research and task authoring. (Python, BLAST, NCBI, Claude, Gemini). _LatchBio_
+- Architect and implement an event-driven observability system for a metagenomic biosurveillance pipeline, tracking job statuses across processing steps and sending results to a database. (Terraform, AWS RDS, Lambda, Batch, EventBridge, SQL). _SecureBio_   
 - Develop pipeline and interactive visualizations to support design and evaluation of siRNA candidates for provided gene targets. (Python, make, Dash, Plotly). _Robigo_
 - Identify hundreds of putative retrotransposons by searching for matches to a known retrotransposon across a large variety of taxonomies. (Python, ElasticBLAST, blast WGS, Nextflow, AWS Batch). _Diamond Age Data Science, subcontractor_
 - Audit current practices and provide strategic recommendations for code versioning, environment management, and knowledge sharing within early-stage computational team. _Plonts_
-- Download thousands of bacterial genomes and perform gene annotations with DRAM to develop a database supporting product development R&D. (Python & Biopython; AWS EC2, S3, and Athena). _Plonts_
+- Develop a database with thousands of annotated bacterial genomes to support product development R&D. (Python \& Biopython; AWS EC2, S3, and Athena). _Plonts_
 - Serve as strategic advisor to the Director of Engineering, with a specific focus on developing the company's data science function. _Concerto Biosciences_
 
 **Biobot Analytics** (2019-2023)  
