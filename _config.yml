@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Claire Duvallet"
+title                    : "Cici Research"
 title_separator          : "-"
-name                     : &name "Claire Duvallet"
-description              : &description "Claire Duvallet"
-url                      : https://cduvallet.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Cici"
+description              : &description "Cici's Research Homepage"
+url                      : https://cici-research.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "cduvallet/cduvallet.github.io"
+repository               : "cici-research/cici-research.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,13 +78,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Claire Duvallet"
-  avatar           : "claire_duvallet_2022.jpg"
-  bio              : "STEM equity @ Science for America | formerly: data science @ Biobot Analytics, PhD @ MIT, Luce Scholar in Cambodia | public health data, microbiome, personalized medicine | gender and racial equity in STEM | she/hers"
-  #location         : "Boston, MA"
+  name             : "cici"
+  avatar           : "cici.jpg"
+  bio              : "Research interests in cardiomyocyte proliferation and cardiac regeneration."
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=sXD-7J4AAAAJ&hl=en&oi=ao"
-  email            : "cduvallet@gmail.com"
+  email            : "2581298155@qq.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,7 +91,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "cduvallet"
+  github           : "cici-research"
   google_plus      :
   keybase          :
   instagram        :
