@@ -8,14 +8,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+欢迎来到我的个人科研空间。
 
-I'm currently a Scientist at [Science for America](https://www.scienceforamerica.org/) (SfA) working to identify and support game-changing solutions in STEM Equity and Education.
+我目前从事生命科学领域研究，研究兴趣主要集中于心肌细胞增殖与心脏再生，希望探索心脏自我修复过程中的分子调控机制，并为再生医学的发展提供新的思路。
 
-Before SfA, I was the founding data scientist at [Biobot Analytics](www.biobot.io), a startup transforming sewers into public health observatories.
-In my role, I provided high-level technical feedback on a variety of data science and software engineering projects, served as a key subject matter expert on wastewater-based epidemiology within the company and on external calls, and was the technical point-person for our federal contracts with HHS and CDC.
-As a founding employee, I also helped the company grow from 5 to 150+ people, and am especially proud of building Biobot's data science team from the ground up with an emphasis on fostering a collaborative and transparent culture.
+除了实验研究，我也关注科研方法、生物信息学分析以及计算工具在生物医学研究中的应用。我相信，科学研究不仅是实验结果的积累，更是一个不断提出问题、探索方法、解决问题并分享知识的过程。
 
-Before joining Biobot, I received my PhD from the Department of Biological Engineering at MIT.
-I worked in [Eric Alm's lab](http://almlab.mit.edu), studying the relationship between the human microbiome and health and disease.
-Before that, I lived for a year in Cambodia working for [Engineering World Health](http://www.ewh.org/) as a [Luce Scholar](http://www.hluce.org/lsprogram.aspx).
-Before that, I studied biomedical engineering at Columbia University.
+这个网站记录我的科研成长历程，包括实验经验与技术积累、生物实验方法、数据分析与代码学习、论文阅读、研究成果以及科研过程中的思考。希望通过持续记录与分享，建立一个连接实验、计算与科学探索的个人知识空间。
