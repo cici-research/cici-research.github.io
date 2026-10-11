@@ -1,6 +1,6 @@
 ---
-title: "Career"
-permalink: /career/
+title: "Bioinformatics"
+permalink: /bioinformatics/
 author_profile: true
 ---
 

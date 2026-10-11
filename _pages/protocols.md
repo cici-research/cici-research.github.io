@@ -1,6 +1,6 @@
 ---
-title: "Consulting"
-permalink: /consulting/
+title: "Protocols"
+permalink: /protocols/
 author_profile: true
 ---
 
