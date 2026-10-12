@@ -3,7 +3,7 @@ title: "Western Blot"
 permalink: /protocols/western-blot/
 ---
 
-通过Western Blot实验检测细胞中特定蛋白质的表达水平。实验流程包括蛋白质提取、BCA蛋白定量、SDS-PAGE电泳、蛋白转膜、膜封闭、一抗二抗孵育以及ECL化学发光检测。
+通过Western Blot实验检测细胞/组织中特定蛋白质的表达水平。实验流程包括蛋白质提取、BCA蛋白定量、SDS-PAGE电泳、蛋白转膜、膜封闭、一抗二抗孵育以及ECL化学发光检测。
 
 ---
 
