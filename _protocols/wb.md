@@ -9,7 +9,7 @@ author_profile: true
 Western blot is used to detect specific proteins.
 
 ## Materials
-
+新版
 - Protein sample
 - SDS-PAGE gel
 - Primary antibody
