@@ -180,6 +180,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  protocols:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -202,6 +205,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _protocols
+  - scope:
+      path: ""
+      type: protocols
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: false
   # _teaching
   - scope:
       path: ""
