@@ -2,8 +2,9 @@
 title: "Western Blot Protocol"
 permalink: /protocols/wb/
 date: 2026-10-12
-layout: single
 collection: protocols
+layout: single
+author_profile: true
 ---
 Western blot is used to detect specific proteins.
 
