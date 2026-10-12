@@ -4,7 +4,7 @@ permalink: /posts/2026/03/tourist-fluent
 date: 2026-03-19
 ---
 
-One of my favorite parts of living in Cambodia was learning the language. It unlocked a way of traveling and connecting with locals that was so special and fun, transforming even the most mundane moments into opportunities to smile and connect. That year, I took a lot of short trips to other countries, often where I had friends on my same fellowship who had also learned their country's language.
+my favorite parts of living in Cambodia was learning the language. It unlocked a way of traveling and connecting with locals that was so special and fun, transforming even the most mundane moments into opportunities to smile and connect. That year, I took a lot of short trips to other countries, often where I had friends on my same fellowship who had also learned their country's language.
 
 By the end of my year, I had arrived at a solid and minimal set of words that I learned when I arrived in a new place which let me not only navigate the world as a tourist, but also imbued my experiences with the joy of discovering other cultures and connecting with other humans.
 
