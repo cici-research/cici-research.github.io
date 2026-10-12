@@ -4,7 +4,7 @@ permalink: /protocols/
 author_profile: true
 ---
 
-# Experimental Protocols
+我会在这里更新一些湿实验的protocols，除了通用的分子生物学实验，更注重心肌细胞与心脏研究的相关实验。
 
 {% for protocol in site.protocols %}
 

@@ -4,7 +4,6 @@ date: 2026-10-12
 collection: protocols
 ---
 
-# Western Blot Protocol
 
 ## Principle
 
