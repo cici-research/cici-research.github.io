@@ -6,6 +6,10 @@ docker run --rm \
   --publish 4000:4000 \
   jekyll/jekyll \
   jekyll serve
+  
+ 本地命令行启动：
+ bundle exec jekyll serve
+ 然后在浏览器访问：http://127.0.0.1:4000/
 ```
 
 [More info](https://github.com/envygeeks/jekyll-docker/blob/master/README.md)

@@ -8,63 +8,44 @@ redirect_from:
 
 ***
 
-# Education
+# 教育经历
 
-**Massachusetts Institute of Technology**, PhD in Biological Engineering (Jan 2019)    
+**同济大学**, PhD in Molecular Biology (Sep. 2022 - present)    
 _Mining the human microbiome for clinical insight_; [thesis](https://www.dropbox.com/s/elvp8qzrz3zsjyx/duvallet_thesis_final.pdf?dl=0), [defense](https://www.dropbox.com/s/j4b11wa8a4r42j8/2019-01-11.defense.pdf?dl=0)
 
-**Columbia University**, B.S. in Biomedical Engineering (2013)   
+**石河子大学**, B.S. in Biotechnology (Sep. 2018 - Jun. 2022)   
 
-James Bowie High School, Austin, TX (2009)
 
 ***
 
 # Professional Experience
 
-**Science for America** (2023-present)  
-_Scientist, STEM Equity and Education_
+**乌鲁木齐莱斯达生物科技有限公司** (2026-2027)   
+_生信分析研究员_
 
-- Analyze US education data (IPEDS completions) to develop novel metrics and data visualization approaches for understanding underrepresentation in STEM fields across higher education and within individual institutions.
-- Develop Python package [scipeds](https://docs.scipeds.org/) to facilitate working with IPEDS data.
-- Launch STEM Futures, a communication coaching program for social entrepeneurs leading initiatives in STEM Equity and Education (in collaboration with Founder to Leader and Thinkubator Media).
-- Investigate opportunities and approaches to reduce calculus' role as a barrier to STEM in US higher education.
-- Work with Chief Scientific Officer and Strategic Advisors to set Science for America's direction in STEM Equity and Education.
-- Define internal team strategy, manage Science for America fellows, and establish positive and collaborative culture within Science for America.
+- 转录组与单细胞分析：开展转录组测序（RNA-seq）、单细胞转录组（scRNA-seq）及空间转录组数据分析，研究基因表达特征及潜在生物学机制。
+- 公共数据库挖掘：利用 TCGA、GEO 等公共数据库开展生物医学数据检索、整理与挖掘。
+- 差异表达与功能富集分析：开展差异表达基因筛选、GO/KEGG 功能富集及相关信号通路分析，探索关键基因及潜在调控机制。
+- 多组学整合分析：使用 R、Python 等工具进行多组学数据处理、整合与可视化，建立可复现的生物信息学分析流程。
+- 科研项目协作：与团队成员合作完成生信分析项目，进行数据质量控制、结果解读及科研报告整理。
 
-**Freelance consulting** (2023-present)   
-_Computational biology & data science consultant, technical advisor_
+**无锡药明生物技术股份有限公司** (2024-2025)  
+_医学信息检索实习生, 内容部_
 
-- Scope public data (Census, CDC WONDER, BLS, etc.) to power portfolio-monitoring dashboards for foundations and healthcare systems. Lead a two-person team auditing third-party consumer data supporting a veteran-focused financial health product. Advise on data science strategy and data modeling, serving as liaison between engineering, product, and epidemiology/policy teams. Advise data science team on computational best practices and encourage adoption of frontier LLM capabilities to increase team efficiency. (Python, SQL, Snowflake, Notion). _Equity Quotient_
-- Contribute to AI benchmark for pathogen genomic surveillance. Brainstorm tasks and build three wild-type vs. vaccine-derived sequence detection tasks, sourcing sequence data, reproducing expected analyses, and reviewing agent trajectories. Leverage multiple LLMs for research and task authoring. (Python, BLAST, NCBI, Claude, Gemini). _LatchBio_
-- Architect and implement an event-driven observability system for a metagenomic biosurveillance pipeline, tracking job statuses across processing steps and sending results to a database. (Terraform, AWS RDS, Lambda, Batch, EventBridge, SQL). _SecureBio_   
-- Develop pipeline and interactive visualizations to support design and evaluation of siRNA candidates for provided gene targets. (Python, make, Dash, Plotly). _Robigo_
-- Identify hundreds of putative retrotransposons by searching for matches to a known retrotransposon across a large variety of taxonomies. (Python, ElasticBLAST, blast WGS, Nextflow, AWS Batch). _Diamond Age Data Science, subcontractor_
-- Audit current practices and provide strategic recommendations for code versioning, environment management, and knowledge sharing within early-stage computational team. _Plonts_
-- Develop a database with thousands of annotated bacterial genomes to support product development R&D. (Python \& Biopython; AWS EC2, S3, and Athena). _Plonts_
-- Serve as strategic advisor to the Director of Engineering, with a specific focus on developing the company's data science function. _Concerto Biosciences_
-
-**Biobot Analytics** (2019-2023)  
-_Founding Staff Data Scientist (Nov 2022 - present)  
-Founding Technical Lead, Data Science (Dec 2021 - Nov 2022)  
-Senior Data Scientist (Mar 2021 - Dec 2021)  
-Data scientist (Jul 2019 - Mar 2021)_  
-
-As an early employee of Biobot Analytics, I wore many hats and did many things:
-
-- **Data science**: Analyze SARS-CoV-2 and opioid data from thousands of wastewater samples to gain public health insight (pandas, geopandas, scikit learn, scipy). Build data visualizations to communicate data concisely (matplotlib, seaborn, geopandas, altair). Work with other data scientists to build and launch data science features that make wastewater data more interpretable and actionable.
-- **Technical leadership**: Define data science priorities and lead a team of internal data scientists, consultants, and academic collaborators to build statistical models to interpret SARS-CoV-2 and opioid metabolite concentrations in sewage. Work with company leadership to develop Biobot's data science strategy and roadmap.
-- **Science communication & customer success**: Communicate Biobot's science through customer webinars, blog posts, and academic publications. Support customer success team to answer customers' technical questions.
-- **People management & team building**: manage teams of 1-2 junior data engineers, 3-4 senior data scientists, and 2-3 junior data analysts. Establish consistent and successful hiring processes, and build the data science organization from 1 person to over 15 across three subteams. Establish & foster a positive and collaborative working culture.
-- **Data engineering**: Design and build data processing pipelines (Python, snakemake, bash, Jenkins) to convert lab results into customer pdf reports. Collaborate with senior software engineers to migrate legacy pipelines to cloud-hosted infrastructure (AWS, lambda).
-- **Technical architecture and design**: Design, build, and manage Biobot's database and processes (Airtable, zapier) supporting all company needs related to ordering, customer metadata, laboratory, and data management. Work with software engineering, product, and project management teams to migrate legacy systems to scalable and cloud-based technologies (AWS, postgres, APIs).  Write technical specifications and requirements documents for a variety of data science and software projects.
-- **Project and program management**: Coordinate high-visibility, high-impact projects that touch many departments within Biobot. Lead internal technical workstreams and serve as an external technical point person for large federal contracts.
+- 医学信息检索：利用权威医学数据库、科研文献及英文网站，开展医药健康领域的信息检索与资料收集。
+- 行业信息分析：收集、筛选并整合医药产品、医药健康企业及行业从业人员等相关信息。
+- 数据清洗与标准化：对医学及医药行业数据进行清洗、核验、补充和标准化处理，确保符合数据库入库要求。
+- 数据库管理：使用 Excel 及数据库工具，对批量数据进行结构化整理，提高信息管理与处理效率。
+- 信息质量控制：评估信息来源的权威性与可靠性，核实关键数据，保障信息的准确性与一致性。
 
 ***
 
 # Research experience
 
-**Alm lab**, Massachusetts Institute of Technology (2014-2019)   
-*Under the direction of Eric Alm*
+整体来说，我的科研经历穿插着生信分析与湿实验，两者互相促进，在博士课题中，两方面得到结合，完成了从实验设计、数据收集、数据处理到结果interpretation的全过程。
+
+**郭旭东实验室**, 同济大学 (2022 - persent)   
+*Under the direction of 郭旭东*
 
 I did my PhD in [Eric Alm's lab](http://almlab.mit.edu/) at MIT.
 You can learn more about my research interests on our [lab website](http://almlab.mit.edu/claire_duvallet.html) and on my [publications](/publications/) and [research](/research/) pages.
@@ -77,11 +58,25 @@ I was an undergraduate research assistant in [Sam Sia](http://bme.columbia.edu/s
 There, I worked on developing a point-of-care microfluidic device to diagnose multi-drug resistant tuberculosis.
 I primarily focused on the DNA amplification and detection modules, optimizing primers and reaction conditions off-chip.
 
-**Laboratoire de Biochimie**, Ecole Polytechnique (Summer 2012)   
-*Under the direction of Cedric Norais*
+**荒漠与绿洲生态国家重点实验室**, 中国科学院新疆生态与地理研究所 (2021 - 2022)   
+*Under the direction of Yakoo*
 
-I was an international undergraduate research intern at Ecole Polytechnique the summer before my senior year.
-There, I worked with Cedric Norais to study the acquired-immunity CRISPR system in E. coli.
+大四那一年，我在中科院新疆生态与地理研究所做本科毕业课题。在那里，我和Yakoo一起建立苔藓 PDS 基因病毒诱导基因沉默（VIGS）体系，课题主要任务是利用齿肋赤藓这种耐干植物，结合基因沉默技术，诱导植物内源基因沉默、
+引起表型变化， 进而根据表型变异研究目标基因的功能。 通过 RNAi 干扰技术沉默齿肋齿藓
+细胞自噬核心基因， 检测细胞程序死亡， 解释齿肋齿藓干燥过程中细胞自噬介导的细胞保护
+分子机制。这段经历让我掌握了基本的分子生物学基因编辑技术，对后续博士阶段的研究打下了坚实的基础。
+
+**程勇翔实验室**, 石河子大学 (2020 - 2022)   
+*Under the direction of 程勇翔*
+
+基于GIS的梭梭年轮测量方法，[**thesis**](https://kns.cnki.net/kcms2/article/abstract?v=WWy_S1jMnoISmqGKkCA6bgDwf4hhA2_7ADpsL5cJoKhAO_DMudK6mKw8cwjRFJXcjMLgm5Hq4L2fST5ARhdCEu1Bzzx07sjTz2uI6BftBNqnFJ1bgGT_B23xkrKSjEv32-frWRETHCT94qiQdszNAtZyZtbFY_hEZb1FUjdTQaM=&uniplatform=NZKPT),
+
+>孙甜甜,**蔡茜茜**,孙洋,等.基于GIS的梭梭年轮测量方法[J].应用生态学报,2021,32(10):3680-3686.DOI:10.13287/j.1001-9332.202110.030.
+
+**马磊实验室**, 石河子大学 (2018 - 2020)   
+*Under the direction of 马磊*
+
+基于扩增子测序分析羽毛针禾根部微生物的固沙生态效应
 
 ***
 
@@ -201,11 +196,13 @@ I serve as a peer-reviewer in my field. A subset of my peer reviews can be found
 
 ## Fellowships
 
-**Siebel Foundation Scholarship**, *Class of 2019 Scholar*
+**同济大学优秀博士新生奖学金**, *校级* (2022-2023)
 
-**National Defense Science and Engineering Graduate (NDSEG) Fellowship**, *Awardee* (2015-2018)
+**国家奖学金**, *Class of 2019 Scholar*
 
-**Henry Luce Foundation**, *Luce Scholar* (2013-2014)
+**国家奖学金**, *Awardee* (2015-2018)
+
+
 
 **National Science Foundation Graduate Research Fellowship**, *Honorable Mention* (2015)
 

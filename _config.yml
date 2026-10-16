@@ -139,6 +139,7 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - vendor
 keep_files:
   - .git
   - .svn
@@ -183,6 +184,9 @@ collections:
   protocols:
     output: true
     permalink: /:collection/:path/
+  bioinformatics:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -209,6 +213,15 @@ defaults:
   - scope:
       path: ""
       type: protocols
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: false
+  # _bioinformatics
+  - scope:
+      path: ""
+      type: bioinformatics
     values:
       layout: single
       author_profile: true
